@@ -1,4 +1,4 @@
-# Personal Accouting
+# Personal Accounting
 
 Personal Accouting is a comprehensive tool for managing personal finances, including transactions, accumulations,
 and financial arrangements. It provides features for tracking expenses, incomes, and managing various financial entities.
