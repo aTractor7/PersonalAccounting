@@ -1,6 +1,6 @@
-# Financial Management System
+# Personal Accouting
 
-The Financial Management System is a comprehensive tool for managing personal finances, including transactions, accumulations,
+Personal Accouting is a comprehensive tool for managing personal finances, including transactions, accumulations,
 and financial arrangements. It provides features for tracking expenses, incomes, and managing various financial entities.
 
 ## Environment Requirements
